@@ -35,7 +35,7 @@
     }
     
     // Run periodically
-    setInterval(clickResumeLink, 1000);
+    setInterval(clickResumeLink, 10000);
     
     // Also run once immediately
     clickResumeLink();
